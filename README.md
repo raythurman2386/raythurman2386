@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raythurman.com](https://raythurman.com)
 
-- 📝 I regulary write articles on [https://just-code.tech](https://just-code.tech)
+- 📝 I semi-regulary write articles on [https://just-code.tech](https://just-code.tech)
 
 - 💬 Ask me about **React, GraphQL, and NodeJS**
 
