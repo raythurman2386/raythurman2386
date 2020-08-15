@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ray</h1>
+<h1 align="center">
+<a href="https://twitter.com/raythurman2386" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raythurman2386" height="30" width="30" /></a>
+Hi 👋, I'm Ray
+<a href="https://linkedin.com/in/raythurman2386" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raythurman2386" height="30" width="30" /></a></h1>
+
 <h3 align="center">A passionate full stack developer from Indiana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raythurman2386" alt="raythurman2386" /> </p>
@@ -13,12 +17,6 @@
 
 - 📫 How to reach me **ray@raythurman.com**
 
-<hr>
-
-<p align="center">
-<a href="https://twitter.com/raythurman2386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raythurman2386" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/raythurman2386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raythurman2386" height="30" width="30" /></a>
-</p>
 <hr>
 
 <h3 align="center">Languages</h3>
@@ -49,6 +47,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raythurman2386&show_icons=true" alt="raythurman2386" /></p>
