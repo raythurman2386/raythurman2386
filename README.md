@@ -5,9 +5,7 @@ Hi 👋, I'm Ray
 
 <h3 align="center">A passionate full stack developer from Indiana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raythurman2386" alt="raythurman2386" /> </p>
-
-- 🌱 I’m currently learning **Redis**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://raythurman.com](https://raythurman.com)
 
