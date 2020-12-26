@@ -5,7 +5,7 @@ Hi 👋, I'm Ray
 
 <h3 align="center">A passionate full stack developer from Indiana</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Lua**
 
 - 👨‍💻 All of my projects are available at [https://raythurman.com](https://raythurman.com)
 
