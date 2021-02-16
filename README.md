@@ -5,8 +5,6 @@ Hi 👋, I'm Ray
 
 <h3 align="center">A passionate full stack developer from Indiana</h3>
 
-- 🌱 I’m currently learning **SQL**
-
 - 👨‍💻 Some of my projects are available at [https://raythurman.com](https://raythurman.com)
 
 - 📝 I semi-regulary write articles on [https://just-code.tech](https://just-code.tech)
