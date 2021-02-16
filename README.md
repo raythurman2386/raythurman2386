@@ -7,7 +7,7 @@ Hi 👋, I'm Ray
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://raythurman.com](https://raythurman.com)
+- 👨‍💻 Some of my projects are available at [https://raythurman.com](https://raythurman.com)
 
 - 📝 I semi-regulary write articles on [https://just-code.tech](https://just-code.tech)
 
