@@ -7,7 +7,7 @@ Hi 👋, I'm Ray
 
 - 👨‍💻 Some of my projects are available at [https://raythurman.com](https://raythurman.com)
 
-- 📝 I semi-regulary write articles on [https://just-code.tech](https://just-code.tech)
+- 📝 I also run a small 3d printing business, with two locations [https://www.saiyanprints.com](https://www.saiyanprints.com)
 
 - 💬 Ask me about **React, GraphQL, and NodeJS**
 
