@@ -14,10 +14,3 @@ Hi 👋, I'm Ray
 - 📫 How to reach me **ray@raythurman.com**
 
 <hr>
-
-<h3 align="center">Languages</h3>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raythurman2386&layout=compact&hide=html" alt="raythurman2386" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raythurman2386&show_icons=true" alt="raythurman2386" /></p>
