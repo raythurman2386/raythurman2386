@@ -3,7 +3,7 @@
 Hi 👋, I'm Ray
 <a href="https://linkedin.com/in/raythurman2386" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raythurman2386" height="30" width="30" /></a></h1>
 
-<h3 align="center">A passionate full stack developer from Indiana</h3>
+<h3 align="center">A passionate full stack developer and small business owner.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://raythurman.com](https://raythurman.com)
 
