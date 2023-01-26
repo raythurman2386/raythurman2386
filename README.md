@@ -5,11 +5,9 @@ Hi 👋, I'm Ray
 
 <h3 align="center">A passionate full stack developer and small business owner.</h3>
 
-- 👨‍💻 Some of my projects are available at [https://raythurman.com](https://raythurman.com)
+- 👨‍💻 Some of my projects are available at [https://raythurman.com](https://raythurman.com), although you will see most here.
 
-- 📝 I also run a small 3d printing business, with two locations [https://www.saiyanprints.com](https://www.saiyanprints.com)
-
-- 💬 Ask me about **React, GraphQL, and NodeJS**
+- 💬 Ask me about **Python, Flask, Django, React, GraphQL, and NodeJS**
 
 - 📫 How to reach me **ray@raythurman.com**
 
