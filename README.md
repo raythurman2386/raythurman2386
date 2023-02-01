@@ -11,4 +11,15 @@ Hi 👋, I'm Ray
 
 - 📫 How to reach me **ray@raythurman.com**
 
+<a href="https://github.com/raythurman2386">
+    <img src="https://github-stats-alpha.vercel.app/api?username=raythurman2386&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 <hr>
+
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raythurman2386&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raythurman2386&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raythurman2386&theme=dracula)
