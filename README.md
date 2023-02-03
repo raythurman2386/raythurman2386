@@ -9,7 +9,7 @@ Hi 👋, I'm Ray
 
 - 💬 Ask me about **Python, Flask, Django, React, GraphQL, and NodeJS**
 
-- 📫 How to reach me **ray@raythurman.com**
+- 📫 How to reach me **raymondthurman5@gmail.com**
 
 <a href="https://github.com/raythurman2386">
     <img src="https://github-stats-alpha.vercel.app/api?username=raythurman2386&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
