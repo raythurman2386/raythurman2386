@@ -5,7 +5,7 @@ Hi 👋, I'm Ray
 
 <h3 align="center">A passionate full stack developer and small business owner.</h3>
 
-- 👨‍💻 Some of my projects are available at [https://www.raymondthurman.com](https://www.raymondthurman.com), although you will see most here.
+- 👨‍💻 Check out my portfolio, [https://www.raymondthurman.com](https://www.raymondthurman.com), I've spent quite a bit of time on it and still have quite a few plans for it, please let me know what you think!
 
 - 💬 Ask me about **Python, Flask, Django, React, GraphQL, and NodeJS**
 
