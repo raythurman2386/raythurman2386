@@ -7,7 +7,7 @@ Hi 👋, I'm Ray
 
 - 👨‍💻 Check out my portfolio, [https://www.raymondthurman.com](https://www.raymondthurman.com), I've spent quite a bit of time on it and still have quite a few plans for it, please let me know what you think!
 
-- 💬 Ask me about **Python, Flask, Django, React, GraphQL, and NodeJS**
+- 💬 Ask me about **Python, Django, React, Flask, GraphQL, and NodeJS**
 
 - 📫 How to reach me **raymondthurman5@gmail.com**
 
