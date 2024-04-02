@@ -12,7 +12,7 @@
 
 Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and Entrepreneur passionate about crafting innovative solutions. My journey in the world of technology has led me to explore a variety of stacks and tools.
 
-- 👨‍💻 Explore my professional portfolio at [https://www.raymondthurman.com](https://www.raymondthurman.com). It serves as a showcase of my expertise and dedication. Your feedback is highly appreciated as I strive to continuously refine it.
+- 👨‍💻 Explore my professional [portfolio](https://raythurman.vercel.app/). It serves as a showcase of my expertise and dedication. Your feedback is highly appreciated as I strive to continuously refine it.
 
 - 💬 My expertise includes a range of technologies, with a focus on Python, Django, React, Flask, GraphQL, and Node.js. Feel free to reach out for engaging discussions about these technologies or any related subjects.
 
