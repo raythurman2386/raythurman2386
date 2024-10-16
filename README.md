@@ -8,15 +8,17 @@
   </a>
 </h1>
 
-<h3 align="center">Experienced Full Stack Developer and Entrepreneur</h3>
+<h3 align="center">GIS Software Engineer | Full Stack Developer | Entrepreneur</h3>
 
-Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and Entrepreneur passionate about crafting innovative solutions. My journey in the world of technology has led me to explore a variety of stacks and tools.
+Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and GIS Software Engineer. Currently, I work for **XTS Technologies**, contracted to the **United States Geological Survey (USGS)** on the **Hydro Tools team**, building geospatial workflows for the **National Map Project**.
 
-- 👨‍💻 Explore my professional [Portfolio](https://raythurman.vercel.app/). It serves as a showcase of my expertise and dedication. Your feedback is highly appreciated as I strive to continuously refine it.
+- 🌎 My role focuses on creating innovative geospatial solutions that power vital mapping tools.
 
-- 💬 My expertise includes a range of technologies, with a focus on Python, Django, NextJS, Flask, GraphQL, and Node.js. Feel free to reach out for engaging discussions about these technologies or any related subjects.
+- 👨‍💻 Explore my professional [Portfolio](https://raythurman.vercel.app/). It showcases my expertise and dedication. Your feedback is highly appreciated as I continuously refine it.
 
-- 📫 Don't hesitate to connect with me via email at raymondthurman5@gmail.com.
+- 💬 My expertise includes Python, Django, NextJS, Flask, GraphQL, Node.js, and GIS technologies. Feel free to reach out for discussions on these or related topics.
+
+- 📫 Connect with me via email at raymondthurman5@gmail.com.
 
 ---
 
