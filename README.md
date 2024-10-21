@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 
 - 🌎 My role focuses on creating innovative geospatial solutions that power vital mapping tools.
 
-- 👨‍💻 Explore my professional [Portfolio](https://raythurman.vercel.app/). It showcases my expertise and dedication. Your feedback is highly appreciated as I continuously refine it.
+- 👨‍💻 Explore my professional [Portfolio](https://www.raythurman.dev). It showcases my expertise and dedication. Your feedback is highly appreciated as I continuously refine it.
 
 - 💬 My expertise includes Python, Django, NextJS, Flask, GraphQL, Node.js, and GIS technologies. Feel free to reach out for discussions on these or related topics.
 
