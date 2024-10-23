@@ -10,7 +10,7 @@
 
 <h3 align="center">GIS Software Engineer | Full Stack Developer | Entrepreneur</h3>
 
-Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and GIS Software Engineer. Currently, I work for **XTS Technologies**, contracted to the **United States Geological Survey (USGS)** on the **Hydro Tools team**, building geospatial workflows for the **National Map Project**.
+Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and GIS Software Engineer. Currently, I work for **Xcellent Technology Solutions**, contracted to the **United States Geological Survey (USGS)** on the **Hydro Tools team**, building geospatial workflows for the **National Map Project**.
 
 - 🌎 My role focuses on creating innovative geospatial solutions that power vital mapping tools.
 
