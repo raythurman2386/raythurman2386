@@ -20,14 +20,4 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 
 - 📫 Connect with me via email at raymondthurman5@gmail.com.
 
----
-
-<h2 align="center">My GitHub Stats</h2>
-
-<p align="center">Here are some statistics that reflect my activity and contributions on GitHub:</p>
-
-<div align="center">
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raythurman2386&theme=dracula)
-
 </div>
