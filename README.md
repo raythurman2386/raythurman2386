@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 
 <h3 align="center">Latest Posts</h3>
 
+- <a href="https://www.raythurman.dev/blog/harnessing-ai-for-geospatial-analysis-a-python-developer-s-guide" rel="noreferrer noopener">Harnessing AI for Geospatial Analysis: A Python Developer's Guide</a>
 - <a href="https://www.raythurman.dev/blog/leveraging-ai-tools-for-successful-remote-software-development-teams" rel="noreferrer noopener">Leveraging AI Tools for Successful Remote Software Development Teams</a>
 - <a href="https://www.raythurman.dev/blog/the-ultimate-guide-to-ai-in-cybersecurity-protecting-your-digital-frontier" rel="noreferrer noopener">The Ultimate Guide to AI in Cybersecurity: Protecting Your Digital Frontier</a>
-- <a href="https://www.raythurman.dev/blog/from-broken-roads-to-flood-maps-how-i-used-open-source-gis-to-analyze-my-watershed" rel="noreferrer noopener">From Broken Roads to Flood Maps: How I Used Open-Source GIS to Analyze My Watershed</a>
 
 ---
-*Last updated: 2025-06-30*
+*Last updated: 2025-07-04*
