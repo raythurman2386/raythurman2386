@@ -25,13 +25,6 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 - <a href="https://www.raythurman.dev/blog/harnessing-ai-for-geospatial-analysis-a-python-developer-s-guide" rel="noreferrer noopener">Harnessing AI for Geospatial Analysis: A Python Developer's Guide</a>
 - <a href="https://www.raythurman.dev/blog/leveraging-ai-tools-for-successful-remote-software-development-teams" rel="noreferrer noopener">Leveraging AI Tools for Successful Remote Software Development Teams</a>
 
----
-
-<h3 align="center">Automated with Agentic AI</h3>
-
-This GitHub profile is now officially automated with **Agentic AI**! This means certain aspects of my repositories are managed and updated autonomously. I'm excited about the possibilities this technology brings to streamlining tasks for my freelance clients, freeing up my time for my full-time position with the USGS.
-
-**Reach out if you'd like more information!**
 
 ---
-*Last updated: 2025-07-15*
+*Last updated: 2025-07-16*
