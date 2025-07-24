@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 
 <h3 align="center">Latest Posts</h3>
 
+- <a href="https://www.raythurman.dev/blog/navigating-america-s-ai-future-the-ai-action-plan" rel="noreferrer noopener">Navigating America's AI Future: The AI Action Plan</a>
 - <a href="https://www.raythurman.dev/blog/remapping-waterways-a-deep-dive-into-the-usgs-3dhp" rel="noreferrer noopener">Remapping America's Waterways: A Deep Dive into the USGS 3D Hydrography Program</a>
 - <a href="https://www.raythurman.dev/blog/integrating-real-time-geospatial-data-with-ai-for-enhanced-decision-making" rel="noreferrer noopener">Integrating Real-Time Geospatial Data with AI for Enhanced Decision Making</a>
-- <a href="https://www.raythurman.dev/blog/harnessing-ai-for-geospatial-analysis-a-python-developer-s-guide" rel="noreferrer noopener">Harnessing AI for Geospatial Analysis: A Python Developer's Guide</a>
 
 
 ---
-*Last updated: 2025-07-21*
+*Last updated: 2025-07-24*
