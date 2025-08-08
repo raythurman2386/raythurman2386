@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 
 <h3 align="center">Latest Posts</h3>
 
+- <a href="https://www.raythurman.dev/blog/5-game-changing-geospatial-web-apps-you-can-create-with-python-in-2025" rel="noreferrer noopener">5 Game-Changing Geospatial Web Apps You Can Create With Python in 2025</a>
 - <a href="https://www.raythurman.dev/blog/revolutionizing-planetary-understanding-google-deepmind-alphaearth-foundation" rel="noreferrer noopener">Revolutionizing Planetary Understanding: Google DeepMind's AlphaEarth Foundation</a>
 - <a href="https://www.raythurman.dev/blog/my-2025-developer-stack-the-ai-and-automation-tools-i-can-t-live-without" rel="noreferrer noopener">My 2025 Developer Stack: The AI and Automation Tools I Can't Live Without</a>
-- <a href="https://www.raythurman.dev/blog/navigating-america-s-ai-future-the-ai-action-plan" rel="noreferrer noopener">Navigating America's AI Future: The AI Action Plan</a>
 
 
 ---
-*Last updated: 2025-08-04*
+*Last updated: 2025-08-08*
