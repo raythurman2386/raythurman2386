@@ -1,13 +1,13 @@
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://twitter.com/raythurman2386" target="_blank">
+  <h1>
+    <a href="https://twitter.com/raythurman2386" target="_blank" style="float: left;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" />
     </a>
-    <h1>Greetings! I'm Ray.</h1>
-    <a href="https://linkedin.com/in/raythurman2386" target="_blank">
+    Greetings! I'm Ray.
+    <a href="https://linkedin.com/in/raythurman2386" target="_blank" style="float: right;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
     </a>
-  </div>
+  </h1>
 </div>
 
 <h3 align="center">GIS Software Engineer | Full Stack Developer | Entrepreneur</h3>
