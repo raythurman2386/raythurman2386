@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
-    <a href="https://twitter.com/raythurman2386" target="_blank" style="float: left;">
+    <a href="https://twitter.com/raythurman2386" target="_blank" style="float: left; text-decoration: none;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" />
     </a>
     Greetings! I'm Ray.
-    <a href="https://linkedin.com/in/raythurman2386" target="_blank" style="float: right;">
+    <a href="https://linkedin.com/in/raythurman2386" target="_blank" style="float: right; text-decoration: none;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
     </a>
   </h1>
@@ -12,11 +12,12 @@
 
 <h3 align="center">GIS Software Engineer | Full Stack Developer | Entrepreneur</h3>
 
-Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and GIS Software Engineer. Currently, I work for **Xcellent Technology Solutions**, contracted to the **United States Geological Survey (USGS)**, building geospatial workflows for the **National Map Project**.
+Welcome to my GitHub profile! I am an experienced Full Stack Developer and disabled Army Veteran. Currently a GIS Software Engineer at Xcellent Technology Solutions, where I develop geospatial workflows for the United States Geological Survey's (USGS) National Map Project.
 
 - 🌎 My role focuses on creating innovative geospatial solutions that power vital mapping tools.
 - 👨‍💻 Explore my professional [Portfolio](https://www.raythurman.dev). It showcases my expertise and dedication.
-- 💬 My expertise includes Python, Django, NextJS, Flask, GraphQL, Node.js, and GIS technologies.
+- 🚀 I love to take things apart! You'll find me often rebuilding popular technologies from scratch to better understand their underlying architecture and advance my skills.
+- 💬 My expertise includes Python, TypeScript, Go, and many frameworks inside of those languages.
 - 📫 Connect with me via email at raymondthurman5@gmail.com.
 
 <br />
@@ -29,4 +30,4 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 
 
 ---
-*Last updated: 2025-09-22*
+*Last updated: 2025-09-23*
