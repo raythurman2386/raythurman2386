@@ -23,10 +23,10 @@ Welcome to my GitHub profile! I'm Ray, an experienced Full Stack Developer and G
 
 <h3 align="center">Latest Posts</h3>
 
+- <a href="https://www.raythurman.dev/blog/cinematic-earth-engine-land-cover-viewer" rel="noreferrer noopener">Cinematic Earth Engine: Building an Interactive Land Cover Split-Viewer</a>
 - <a href="https://www.raythurman.dev/blog/beyond-the-static-map-building-an-interactive-nighttime-lights-trend-analyzer-with-google-earth" rel="noreferrer noopener">Beyond the Static Map: Building an Interactive Nighttime Lights Trend Analyzer with Google Earth Engine and Python</a>
-- <a href="https://www.raythurman.dev/blog/beyond-visual-inspection-a-guide-to-anomaly-detection-in-hydrographic-networks" rel="noreferrer noopener">Beyond Visual Inspection: A Guide to Anomaly Detection in Hydrographic Networks</a>
 - <a href="https://www.raythurman.dev/blog/level-up-your-career-why-every-software-engineer-needs-a-homelab" rel="noreferrer noopener">Level Up Your Career: Why Every Software Engineer Needs a Homelab</a>
 
 
 ---
-*Last updated: 2025-11-04*
+*Last updated: 2025-11-18*
