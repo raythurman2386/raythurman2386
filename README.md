@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 ```
 
-<h3>GIS Software Engineer · Full Stack Developer · Entrepreneur</h3>
+<h3>GIS Software Engineer · Full Stack Developer · Army Vet</h3>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/raythurman2386)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/raythurman2386)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raythurman2386)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://www.raythurman.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raymondthurman5@gmail.com)
@@ -22,12 +22,12 @@
 
 ### 👋 About Me
 
-I'm Ray, an experienced Full Stack Developer and GIS Software Engineer. Currently, I work for **Xcellent Technology Solutions (XTS)**, contracted to the **United States Geological Survey (USGS)** building geospatial workflows for the **National Map Project**.
+I'm Ray, a Full Stack Developer and GIS Software Engineer at **Xcellent Technology Solutions**, contracted to the **USGS** on geospatial workflows for the **National Map**.
 
-- 🌎 Creating innovative geospatial solutions that power vital mapping tools
-- 💻 Explore my [Portfolio](https://www.raythurman.dev) showcasing my expertise
-- 🛠️ **Core Stack:** Python · Django · Next.js · Flask · GraphQL · Node.js · GIS
-- 🦀 **Current Focus:** Building CLI tools, AI agents, and terminal UIs with Go
+- 🌎 Building mapping and hydrographic tooling that has to work on real data
+- 💻 Portfolio: [raythurman.dev](https://www.raythurman.dev)
+- 🛠️ Day job stack: Python · Django · Next.js · Flask · GraphQL · Node.js · GIS
+- 🦀 After hours: local coding agents, terminal UIs, and homelab systems in Rust and Go
 
 ---
 
@@ -35,18 +35,18 @@ I'm Ray, an experienced Full Stack Developer and GIS Software Engineer. Currentl
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </div>
 
@@ -60,40 +60,39 @@ I'm Ray, an experienced Full Stack Developer and GIS Software Engineer. Currentl
 
 ---
 
-### 💻 Personal Projects & Freelance
-
-Building with Go for personal projects and freelance work:
-- 🤖 AI Agents and automation tools
-- 🖥️ Terminal UIs and CLI applications
-- 🛠️ Various side projects and experiments
-
----
-
 ### 🚀 Projects
+
+What I actually have pinned and what I still maintain. Most of the current work is local-first: agents you run yourself, a control surface for them, and a Pi desktop that is not a toy.
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| [Ravenbot](https://raythurman2386.github.io/ravenbot/) | Self-hosted autonomous AI agent in Go. researches trends in Golang, AI/LLM, Geospatial |
-| [Go Cloud](https://go-cloud.raythurman.dev/) | File storage solution in Go + HTMX, inspired by Google Drive |
-| [GoForge](https://raythurman2386.github.io/goforge/) | Self-hosted PaaS in Go + HTMX. Deploy from Git with automatic SSL |
-| [Straw](https://github.com/raythurman2386/straw) | Terminal-based file automation system with TUI client and persistent daemon |
-| [sysmetrics-mcp](https://github.com/raythurman2386/sysmetrics-mcp) | MCP server exposing Linux system metrics via MCP tools |
-| [Ravenwood VS Code](https://github.com/raythurman2386/ravenwood-vscode) | Forest theme for VS Code based on Everforest with emerald greens |
+### 🚀 Projects
+
+Local-first tools: coding agents, a control surface for them, and Raspberry Pi desktop setup.
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Raven](https://github.com/raythurman2386/raven) | Rust | Privacy-first coding-agent harness. Single binary, works with Ollama or any OpenAI-compatible endpoint. |
+| [Hearth](https://github.com/raythurman2386/hearth) | Rust | Local control surface for Raven, Codex, and Grok on Linux and Windows. |
+| [Pimarchy](https://github.com/raythurman2386/pimarchy) | Shell | Pi OS Lite → Hyprland desktop (Omarchy-style). [Docs](https://raythurman2386.github.io/pimarchy/). |
+| [sysmetrics-mcp](https://github.com/raythurman2386/sysmetrics-mcp) | Go | MCP server for Linux system metrics (Pi-friendly). |
+| [Straw](https://github.com/raythurman2386/straw) | Go | Folder-watching file automation with Charm TUI + daemon. |
+| [fastapi-react-starter](https://github.com/raythurman2386/fastapi-react-starter) | TS / Python | FastAPI + Postgres + React 19 starter template. |
+
+Also: [Ravenwood VS Code](https://github.com/raythurman2386/ravenwood-vscode) theme, [Aurora Flow](https://github.com/raythurman2386/aurora-flow) new-tab extension, [EdgeShield](https://github.com/raythurman2386/edgeshield), [homelab-template](https://github.com/raythurman2386/homelab-template).
 
 </div>
 
 ---
 
-### 🔒 Private Repositories & Collaboration
+### 🔒 Private work
 
-I have several private repositories containing proprietary tools, advanced AI agents, and client projects. If you're interested in collaborating, discussing a potential project, or learning more about my private work, feel free to [reach out via email](mailto:raymondthurman5@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/raythurman2386).
+Some agent, client, and GIS tooling stays private. If you want to talk shop or a contract, email or LinkedIn is fine.
 
 ---
 
 <div align="center">
 
-*Last updated: 2026-03-19*
+*Last updated: 2026-08-25*
 
 </div>
