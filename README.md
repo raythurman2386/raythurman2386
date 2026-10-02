@@ -2,7 +2,7 @@
 
 Software engineer · Army vet.
 
-Building geospatial tooling by day. Local-first agents, Pi desktops, and small public tools after hours.
+Local-first agents, Pi desktops, and small public tools.
 
 **[Portfolio](https://www.raythurman.dev)** · **[Agency](https://www.ravenwoodsoftware.dev)** · **[UI kit](https://ui.ravenwoodsoftware.dev)** · [LinkedIn](https://linkedin.com/in/raythurman2386) · [X](https://x.com/raythurman2386)
 
@@ -10,10 +10,9 @@ Building geospatial tooling by day. Local-first agents, Pi desktops, and small p
 
 ## About
 
-I'm Ray, a full stack and GIS software engineer at **Xcellent Technology Solutions**, contracted to the **USGS** on geospatial workflows for the **National Map**.
+I'm Ray, a full stack software engineer at **Xcellent Technology Solutions**.
 
-- Mapping and hydrographic tooling that has to work on real data
-- Day job: Python, Django, Next.js, Flask, GraphQL, Node.js, GIS
+- Day job: contracted to the **USGS** on geospatial workflows for the **National Map**
 - After hours: local coding agents, terminal UIs, and homelab systems in Rust and Go
 - Running a lot of that work from a Raspberry Pi instead of chasing bigger boxes
 
@@ -44,13 +43,13 @@ What I'm shipping and maintaining right now. Portfolio and agency stay as live s
 
 ## Stack
 
-Python · TypeScript · Rust · Go · Django · Next.js · PostGIS · Docker · Linux
+Python · TypeScript · Rust · Go · Next.js · Sanity · Vercel · Docker · Linux
 
 ---
 
 ## Private work
 
-Some agent, client, and GIS tooling stays private. If you want to talk shop or a contract, [email](mailto:raymondthurman5@gmail.com) or LinkedIn is fine.
+Some agent, client, and GIS tooling stays private. If you want to talk shop or a contract, [email](mailto:raymondthurman5@gmail.com) or [LinkedIn](https://linkedin.com/in/raythurman2386) is fine.
 
 ---
 
