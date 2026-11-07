@@ -2,9 +2,9 @@
 
 Software engineer · Army vet.
 
-Local-first agents, Pi desktops, and small public tools.
+Local-first agents, Rust desktop apps, Pi desktops, and small public tools.
 
-**[Portfolio](https://www.raythurman.dev)** · **[Agency](https://www.ravenwoodsoftware.dev)** · **[UI kit](https://ui.ravenwoodsoftware.dev)** · [LinkedIn](https://linkedin.com/in/raythurman2386) · [X](https://x.com/raythurman2386)
+**[Portfolio](https://www.raythurman.dev)** · **[Agency](https://www.ravenwoodsoftware.dev)** · **[UI kit](https://ui.ravenwoodsoftware.dev)** · [LinkedIn](https://linkedin.com/in/raythurman2386) · [X](https://x.com/raythurman2386) · [Sponsor](https://github.com/sponsors/raythurman2386)
 
 ---
 
@@ -38,6 +38,8 @@ What I'm shipping and maintaining right now. Portfolio and agency stay as live s
 | Raven | [GitHub](https://github.com/raythurman2386/raven) | Local-first coding-agent harness |
 | Hearth | [GitHub](https://github.com/raythurman2386/hearth) | Control surface for Raven, Codex, and Grok |
 | Pimarchy | [GitHub](https://github.com/raythurman2386/pimarchy) · [Docs](https://raythurman2386.github.io/pimarchy/) | Pi OS Lite → Hyprland desktop |
+| GoForge | [GitHub](https://github.com/raythurman2386/goforge) · [Docs](https://goforge-docs-app.ravenwoodsoftware.dev/) | Self-hosted Go + HTMX PaaS: Git deploys, auto SSL, one-click services |
+| Muninn | [GitHub](https://github.com/raythurman2386/muninn) | Local-first Markdown vault with a wikilink graph, built in Rust on Rune |
 
 ---
 
@@ -53,4 +55,4 @@ Some agent, client, and GIS tooling stays private. If you want to talk shop or a
 
 ---
 
-*Last updated: 2026-10-02*
+*Last updated: 2026-11-07*
